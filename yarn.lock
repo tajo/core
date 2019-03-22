@@ -3922,7 +3922,7 @@ node-pre-gyp@^0.10.0:
     semver "^5.3.0"
     tar "^4"
 
-nodemon@^1.12.1:
+nodemon@^1.18.7:
   version "1.18.10"
   resolved "https://registry.yarnpkg.com/nodemon/-/nodemon-1.18.10.tgz#3ba63f64eb4c283cf3e4f75f30817e9d4f393afe"
   integrity sha512-we51yBb1TfEvZamFchRgcfLbVYgg0xlGbyXmOtbBzDwxwgewYS/YbZ5tnlnsH51+AoSTTsT3A2E/FloUbtH8cQ==
@@ -3995,12 +3995,12 @@ npm-run-path@^2.0.0:
   dependencies:
     path-key "^2.0.0"
 
-npm-watch@0.4.0:
-  version "0.4.0"
-  resolved "https://registry.yarnpkg.com/npm-watch/-/npm-watch-0.4.0.tgz#24fb7af68f3795f9d79eb0d893d582bc2a32f543"
-  integrity sha512-ekAUqXjQHSM3pAEB2kSHUzzU6i3Auucv8RwCz4sdNfLXVeysaXKSKbod3nIp+p3jb0u9mwDDdZ55uHPqMaWSdQ==
+npm-watch@0.6.0:
+  version "0.6.0"
+  resolved "https://registry.yarnpkg.com/npm-watch/-/npm-watch-0.6.0.tgz#c00550ddd14fd1dcdd46d4a4cf60a07ba92c389e"
+  integrity sha512-qt3jZd8gKX45m5czKv/CsxzWDMgblu/meL5PefeoViq07e8l7+DBNC8RgHAI0DfA+jJq2n/pJLaNL4yfHR+0qw==
   dependencies:
-    nodemon "^1.12.1"
+    nodemon "^1.18.7"
     through2 "^2.0.0"
 
 npmlog@^4.0.2:
